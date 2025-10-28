@@ -1,11 +1,24 @@
 body{
-    background: yellowgreen;
+    background: rgb(6, 116, 131);
     font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-    color: blueviolet;
+    color: rgb(24, 0, 48);
     text-align: center;
 }
 h2{
-    color: darkorange;
+    color: rgb(44, 44, 44);
+}
+.problem{
+    max-width: 1000px;
+}
+/* smaller, targeted size for the affinity diagram */
+.affinity{
+    max-width: 1000px; /* scale down */
+    height: auto;
+    display: inline-block; /* keep flow with other images/text */
+}
+.sketch{
+    max-width: 500px;
+    
 }
