@@ -1,5 +1,5 @@
 body{
-    background: rgb(6, 116, 131);
+    background: rgb(74, 234, 0);
     font-family: Arial, Helvetica, sans-serif;
 }
 h1{
@@ -7,7 +7,7 @@ h1{
     text-align: center;
 }
 h2{
-    color: rgb(44, 44, 44);
+    color: rgb(0, 0, 0);
 }
 .problem{
     max-width: 1000px;
