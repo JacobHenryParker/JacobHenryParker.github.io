@@ -1,5 +1,5 @@
 body{
-    background: rgb(74, 234, 0);
+    background: rgb(115, 118, 179);
     font-family: Arial, Helvetica, sans-serif;
 }
 h1{
@@ -10,15 +10,13 @@ h2{
     color: rgb(0, 0, 0);
 }
 .problem{
-    max-width: 1000px;
+    max-width: 45%;
 }
 /* smaller, targeted size for the affinity diagram */
 .affinity{
-    max-width: 1000px; /* scale down */
+    max-width: 25%; /* scale down */
     height: auto;
-    display: inline-block; /* keep flow with other images/text */
 }
 .sketch{
-    max-width: 500px;
-    
+    max-width: 20%;
 }
